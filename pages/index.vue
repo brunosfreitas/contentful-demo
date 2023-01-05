@@ -1,0 +1,3 @@
+<template>
+  <CounterDemo></CounterDemo>
+</template>
